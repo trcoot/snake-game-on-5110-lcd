@@ -2,6 +2,10 @@
 
 ![](/snake_game.png)
 
+## Demonstration
+
+<b>https://www.bilibili.com/video/BV1TL411T7j3</b>
+
 ## How to Built It?
 
 1. Built the circuit correctly
